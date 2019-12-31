@@ -1,0 +1,5 @@
+app:
+  dweetThing: "https://dweet.io:443/dweet/for/weather"
+  weather:
+    url: "http://api.openweathermap.org/data/2.5/weather"
+    appId: ${WEATHER_APP_KEY}
